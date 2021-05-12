@@ -17,6 +17,23 @@ p {
     padding-top: 100px;
     
 }
+/* still under construction */
+button {
+    padding: 10px;
+    margin: 20px auto;
+    background-color: rgb(57, 13, 216);
+    color: seashell;
+    border-radius: 50%;
+    border-color: red;
+    border-style: solid;
+}
+
+button:hover {
+    background-color: silver;
+    color: rgb(228, 17, 17);
+    border-color: blue;
+}
+
 
 .skill-row {
     width: 50%;
